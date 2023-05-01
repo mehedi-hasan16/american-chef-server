@@ -1,0 +1,52 @@
+[
+      {
+        "id": 1,
+        "name": "Alice Smith",
+        "picture": "https://example.com/alice.jpg",
+        "years_of_experience": 5,
+        "num_recipes": 100,
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Bob Johnson",
+        "picture": "https://example.com/bob.jpg",
+        "years_of_experience": 8,
+        "num_recipes": 200,
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Charlie Brown",
+        "picture": "https://example.com/charlie.jpg",
+        "years_of_experience": 3,
+        "num_recipes": 50,
+        "rating": 4.2
+      },
+      {
+        "id": 4,
+        "name": "David Lee",
+        "picture": "https://example.com/david.jpg",
+        "years_of_experience": 10,
+        "num_recipes": 300,
+        "rating": 4.9
+      },
+      {
+        "id": 5,
+        "name": "Emily Davis",
+        "picture": "https://example.com/emily.jpg",
+        "years_of_experience": 6,
+        "num_recipes": 150,
+        "rating": 4.7
+      },
+      {
+        "id": 6,
+        "name": "Frank Garcia",
+        "picture": "https://example.com/frank.jpg",
+        "years_of_experience": 2,
+        "num_recipes": 25,
+        "rating": 4.0
+      }
+    ]
+
+  
