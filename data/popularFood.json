@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Pizza",
+      "picture": "https://example.com/pizza.jpg",
+      "likes": 1243
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "picture": "https://example.com/burger.jpg",
+      "likes": 1056
+    },
+    {
+      "id": 3,
+      "name": "Tacos",
+      "picture": "https://example.com/tacos.jpg",
+      "likes": 789
+    }
+  ]

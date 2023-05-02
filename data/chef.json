@@ -140,7 +140,7 @@
             {
             "id": 13,
             "name": "Chiles Rellenos",
-            "picture": "https://example.com/chiles.jpg",
+            "picture": "https://i.ibb.co/5cTcD5t/1.jpg",
             "ingredients": ["poblano peppers", "ground beef", "tomatoes", "onions", "garlic"],
             "cooking_method": "Roast and peel poblano peppers, stuff with ground beef and tomato sauce, bake until heated through",
             "rating": 4.8
@@ -148,7 +148,7 @@
             {
             "id": 14,
             "name": "Cochinita Pibil",
-            "picture": "https://example.com/cochinita.jpg",
+            "picture": "https://i.ibb.co/4g9mW1X/2.jpg",
             "ingredients": ["pork shoulder", "achiote paste", "orange juice", "garlic", "onions"],
             "cooking_method": "Marinate pork shoulder in achiote paste, orange juice, garlic, and onions, wrap in banana leaves and bake until tender, shred and serve with tortillas",
             "rating": 4.9
@@ -156,7 +156,7 @@
             {
             "id": 15,
             "name": "Tacos al Pastor",
-            "picture": "https://example.com/tacos.jpg",
+            "picture": "https://i.ibb.co/x6YZ4bv/3.jpg",
             "ingredients": ["pork shoulder", "achiote paste", "pineapple", "onions", "corn tortillas"],
             "cooking_method": "Marinate pork shoulder in achiote paste, grill with pineapple and onions, serve on corn tortillas with cilantro and lime",
             "rating": 4.7
@@ -164,7 +164,7 @@
             {
             "id": 16,
             "name": "Guacamole",
-            "picture": "https://example.com/guac.jpg",
+            "picture": "https://i.ibb.co/SfBY10C/4.jpg",
             "ingredients": ["avocados", "lime juice", "red onion", "jalapeno", "cilantro"],
             "cooking_method": "Mash avocados with lime juice, add diced red onion, minced jalapeno, and chopped cilantro, mix and serve",
             "rating": 4.9
@@ -172,7 +172,7 @@
             {
             "id": 17,
             "name": "Salsa Verde",
-            "picture": "https://example.com/salsa.jpg",
+            "picture": "https://i.ibb.co/sRMTpgY/5.jpg",
             "ingredients": ["tomatillos", "jalapenos", "garlic", "cilantro", "lime juice"],
             "cooking_method": "Roast tomatillos and jalapenos, blend with garlic, cilantro, and lime juice, season and serve",
             "rating": 4.6
@@ -180,7 +180,7 @@
             {
             "id": 18,
             "name": "Enchiladas Verdes",
-            "picture": "https://example.com/enchiladas.jpg",
+            "picture": "https://i.ibb.co/p0zGMxw/6.jpg",
             "ingredients": ["corn tortillas", "shredded chicken", "salsa verde", "sour cream", "queso fresco"],
             "cooking_method": "Dip corn tortillas in hot oil to soften, fill with shredded chicken and salsa verde, roll and place in a baking dish, top with more salsa verde, crumbled queso fresco, and sour cream, bake until heated through",
             "rating": 4.8
@@ -199,7 +199,7 @@
             {
             "id": 19,
             "name": "Spaghetti Carbonara",
-            "picture": "https://example.com/carbonara.jpg",
+            "picture": "https://i.ibb.co/PMB4rMG/7.jpg",
             "ingredients": ["spaghetti", "pancetta", "eggs", "pecorino cheese", "black pepper"],
             "cooking_method": "Cook spaghetti until al dente, fry pancetta until crispy, whisk eggs and pecorino cheese together, combine cooked spaghetti with pancetta, pour egg mixture over and stir quickly, season with black pepper",
             "rating": 4.9
@@ -207,7 +207,7 @@
             {
             "id": 20,
             "name": "Osso Buco",
-            "picture": "https://example.com/osso.jpg",
+            "picture": "https://i.ibb.co/D8dpRzy/8.jpg",
             "ingredients": ["veal shanks", "carrots", "celery", "onions", "tomato paste"],
             "cooking_method": "Brown veal shanks, sautee carrots, celery, and onions, add tomato paste and white wine, cover and simmer until meat is tender, serve with gremolata",
             "rating": 4.8
@@ -215,7 +215,7 @@
             {
             "id": 21,
             "name": "Margherita Pizza",
-            "picture": "https://example.com/pizza.jpg",
+            "picture": "https://i.ibb.co/2dm8GVf/9.jpg",
             "ingredients": ["pizza dough", "san marzano tomatoes", "fresh mozzarella", "basil", "olive oil"],
             "cooking_method": "Stretch pizza dough, spread san marzano tomatoes, top with sliced fresh mozzarella, drizzle with olive oil, bake in a wood-fired oven until crust is crispy, garnish with fresh basil",
             "rating": 4.9
@@ -223,7 +223,7 @@
             {
             "id": 22,
             "name": "Lasagna",
-            "picture": "https://example.com/lasagna.jpg",
+            "picture": "https://i.ibb.co/s6jzjn1/10.jpg",
             "ingredients": ["lasagna noodles", "ground beef", "ricotta cheese", "mozzarella cheese", "marinara sauce"],
             "cooking_method": "Cook lasagna noodles, brown ground beef, mix ricotta cheese with mozzarella cheese, layer noodles, meat, cheese mixture, and marinara sauce, bake until heated through",
             "rating": 4.7
@@ -250,7 +250,7 @@
             {
             "id": 24,
             "name": "Sushi Rolls",
-            "picture": "https://i.ibb.co/st4mxkX/1.jpg",
+            "picture": "https://i.ibb.co/WF3pj6V/11.jpg",
             "ingredients": ["sushi rice", "nori seaweed", "raw fish", "avocado", "cucumber"],
             "cooking_method": "Cook sushi rice, place nori seaweed on a sushi mat, spread rice evenly on the seaweed, add raw fish, avocado, and cucumber, roll up tightly using the mat, slice into pieces",
             "rating": 4.8
@@ -258,7 +258,7 @@
             {
             "id": 25,
             "name": "Miso Soup",
-            "picture": "https://example.com/miso.jpg",
+            "picture": "https://i.ibb.co/p0zGMxw/6.jpg",
             "ingredients": ["dashi stock", "miso paste", "tofu", "scallions", "wakame seaweed"],
             "cooking_method": "Heat dashi stock, whisk in miso paste, add cubed tofu and sliced scallions, simmer for a few minutes, add soaked and drained wakame seaweed",
             "rating": 4.7
@@ -266,7 +266,7 @@
             {
             "id": 26,
             "name": "Teriyaki Chicken",
-            "picture": "https://example.com/teriyaki.jpg",
+            "picture": "https://i.ibb.co/D8dpRzy/8.jpg",
             "ingredients": ["chicken thighs", "soy sauce", "mirin", "sake", "sugar"],
             "cooking_method": "Marinate chicken thighs in a mixture of soy sauce, mirin, sake, and sugar, grill or broil until cooked through, basting with the marinade",
             "rating": 4.6
