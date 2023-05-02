@@ -2,19 +2,19 @@
     {
       "id": 1,
       "name": "Pizza",
-      "picture": "https://example.com/pizza.jpg",
+      "picture": "https://i.ibb.co/QF7Ljsm/pizza.jpg",
       "likes": 1243
     },
     {
       "id": 2,
       "name": "Burger",
-      "picture": "https://example.com/burger.jpg",
+      "picture": "https://i.ibb.co/zmx4BNT/burger.jpg",
       "likes": 1056
     },
     {
       "id": 3,
       "name": "Tacos",
-      "picture": "https://example.com/tacos.jpg",
+      "picture": "https://i.ibb.co/9ZyhVsM/tacos.jpg",
       "likes": 789
     }
   ]
