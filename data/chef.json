@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Alice Smith",
-      "picture": "https://example.com/alice.jpg",
+      "picture": "https://i.ibb.co/4t1zXzJ/2.jpg",
       "years_of_experience": 5,
       "num_recipes": 3,
       "bio": "Alice Smith is a classically trained chef with a passion for Italian cuisine. She has worked in several Michelin-starred restaurants and has won numerous awards for her pasta dishes.",
@@ -11,7 +11,7 @@
         {
           "id": 1,
           "name": "Spaghetti Carbonara",
-          "picture": "https://example.com/spaghetti.jpg",
+          "picture": "https://i.ibb.co/5cTcD5t/1.jpg",
           "ingredients": ["pasta", "bacon", "eggs", "cheese", "garlic"],
           "cooking_method": "Boil pasta, fry bacon and garlic, mix eggs and cheese, combine all ingredients and serve",
           "rating": 4.8
@@ -19,7 +19,7 @@
         {
           "id": 2,
           "name": "Margherita Pizza",
-          "picture": "https://example.com/pizza.jpg",
+          "picture": "https://i.ibb.co/4g9mW1X/2.jpg",
           "ingredients": ["pizza dough", "tomatoes", "mozzarella", "basil", "olive oil"],
           "cooking_method": "Roll out pizza dough, spread tomato sauce, add mozzarella, bake in oven, garnish with basil and olive oil",
           "rating": 4.5
@@ -27,7 +27,7 @@
         {
           "id": 3,
           "name": "Tiramisu",
-          "picture": "https://example.com/tiramisu.jpg",
+          "picture": "https://i.ibb.co/x6YZ4bv/3.jpg",
           "ingredients": ["ladyfingers", "espresso", "marsala wine", "mascarpone cheese", "cocoa powder"],
           "cooking_method": "Soak ladyfingers in espresso and marsala wine, layer with mascarpone cheese, sprinkle cocoa powder on top, chill and serve",
           "rating": 4.7
@@ -37,7 +37,7 @@
     {
       "id": 2,
       "name": "Bob Johnson",
-      "picture": "https://example.com/bob.jpg",
+      "picture": "https://i.ibb.co/wppPXcB/3.jpg",
       "years_of_experience": 8,
       "num_recipes": 4,
       "bio": "Bob Johnson is a barbecue master with a love for all things smoked. He has competed in several BBQ competitions and has won multiple awards for his brisket.",
@@ -46,7 +46,7 @@
         {
           "id": 4,
           "name": "Smoked Brisket",
-          "picture": "https://example.com/brisket.jpg",
+          "picture": "https://i.ibb.co/SfBY10C/4.jpg",
           "ingredients": ["beef brisket", "salt", "pepper", "smoking wood", "barbecue sauce"],
           "cooking_method": "Rub brisket with salt and pepper, smoke with wood for several hours, glaze with barbecue sauce, and rest before serving",
           "rating": 4.9
@@ -54,7 +54,7 @@
         {
           "id": 5,
           "name": "Pulled Pork Sandwiches",
-          "picture": "https://example.com/pulled-pork.jpg",
+          "picture": "https://i.ibb.co/sRMTpgY/5.jpg",
           "ingredients": ["pork shoulder", "bbq rub", "barbecue sauce", "buns", "coleslaw"],
           "cooking_method": "Rub pork shoulder with BBQ rub, smoke until tender, shred and mix with barbecue sauce, serve on buns with coleslaw",
           "rating": 4.7
@@ -62,7 +62,7 @@
           {
           "id": 6,
           "name": "Smoked Ribs",
-          "picture": "https://example.com/ribs.jpg",
+          "picture": "https://i.ibb.co/p0zGMxw/6.jpg",
           "ingredients": ["pork ribs", "bbq rub", "barbecue sauce", "smoking wood", "foil"],
           "cooking_method": "Rub ribs with BBQ rub, smoke with wood for several hours, wrap in foil with barbecue sauce, and continue cooking until tender",
           "rating": 4.8
@@ -70,7 +70,7 @@
           {
           "id": 7,
           "name": "BBQ Chicken",
-          "picture": "https://example.com/chicken.jpg",
+          "picture": "https://i.ibb.co/PMB4rMG/7.jpg",
           "ingredients": ["chicken quarters", "bbq rub", "barbecue sauce", "smoking wood", "foil"],
           "cooking_method": "Rub chicken with BBQ rub, smoke with wood for several hours, wrap in foil with barbecue sauce, and continue cooking until tender",
           "rating": 4.6
@@ -80,7 +80,7 @@
           {
           "id": 3,
           "name": "Emily Chen",
-          "picture": "https://example.com/emily.jpg",
+          "picture": "https://i.ibb.co/XC5XmVb/4.jpg",
           "years_of_experience": 3,
           "num_recipes": 5,
           "bio": "Emily Chen is a pastry chef with a talent for creating beautiful and delicious desserts. She has worked in some of the top pastry kitchens in the world and has a passion for using seasonal and local ingredients.",
@@ -89,7 +89,7 @@
           {
           "id": 8,
           "name": "Chocolate Mousse",
-          "picture": "https://example.com/mousse.jpg",
+          "picture": "https://i.ibb.co/D8dpRzy/8.jpg",
           "ingredients": ["chocolate", "cream", "eggs", "sugar", "butter"],
           "cooking_method": "Melt chocolate and butter, mix with egg yolks and sugar, fold in whipped cream and egg whites, chill and serve",
           "rating": 4.7
@@ -97,7 +97,7 @@
           {
           "id": 9,
           "name": "Lemon Tart",
-          "picture": "https://example.com/tart.jpg",
+          "picture": "https://i.ibb.co/2dm8GVf/9.jpg",
           "ingredients": ["butter", "sugar", "eggs", "lemon juice", "flour"],
           "cooking_method": "Cream butter and sugar, mix in eggs and lemon juice, fold in flour, bake in tart shell and serve",
           "rating": 4.6
@@ -105,7 +105,7 @@
           {
           "id": 10,
           "name": "Raspberry Macarons",
-          "picture": "https://example.com/macarons.jpg",
+          "picture": "https://i.ibb.co/s6jzjn1/10.jpg",
           "ingredients": ["almond flour", "powdered sugar", "egg whites", "sugar", "raspberry jam"],
           "cooking_method": "Whip egg whites and sugar, fold in almond flour and powdered sugar, pipe and bake macarons, fill with raspberry jam and sandwich",
           "rating": 4.8
@@ -113,7 +113,7 @@
           {
           "id": 11,
           "name": "Strawberry Shortcake",
-          "picture": "https://example.com/shortcake.jpg",
+          "picture": "https://i.ibb.co/WF3pj6V/11.jpg",
           "ingredients": ["flour", "sugar", "baking powder", "butter", "whipped cream"],
           "cooking_method": "Mix flour, sugar, and baking powder, cut in butter, add milk, bake shortcakes, layer with whipped cream and strawberries",
           "rating": 4.5
@@ -121,7 +121,7 @@
           {
             "id": 12,
             "name": "Blueberry Scones",
-            "picture": "https://example.com/scones.jpg",
+            "picture": "https://i.ibb.co/Tr8pZgX/12.jpg",
             "ingredients": ["flour", "sugar", "baking powder", "butter", "blueberries"],
             "cooking_method": "Mix flour, sugar, and baking powder, cut in butter, add milk and blueberries, shape and bake scones",
             "rating": 4.9
@@ -131,7 +131,7 @@
             {
             "id": 4,
             "name": "Juan Rodriguez",
-            "picture": "https://example.com/juan.jpg",
+            "picture": "https://i.ibb.co/PtnRrpD/5.jpg",
             "years_of_experience": 7,
             "num_recipes": 10,
             "bio": "Juan Rodriguez is a Mexican-American chef with a passion for authentic Mexican cuisine. He has worked in some of the top restaurants in Mexico City and has a talent for creating bold and flavorful dishes.",
@@ -190,7 +190,7 @@
             {
             "id": 5,
             "name": "Giovanni Rossi",
-            "picture": "https://example.com/giovanni.jpg",
+            "picture": "https://i.ibb.co/xqCYdZm/6.jpg",
             "years_of_experience": 12,
             "num_recipes": 15,
             "bio": "Giovanni Rossi is an Italian chef who specializes in traditional Italian cuisine. He was born and raised in Rome and has worked in some of the top restaurants in Italy.",
@@ -241,7 +241,7 @@
             {
             "id": 6,
             "name": "Satoshi Nakamura",
-            "picture": "https://example.com/satoshi.jpg",
+            "picture": "https://i.ibb.co/st4mxkX/1.jpg",
             "years_of_experience": 8,
             "num_recipes": 10,
             "bio": "Satoshi Nakamura is a Japanese chef who specializes in sushi and other Japanese cuisine. He learned the art of sushi-making from his father and has worked in top sushi restaurants in Tokyo and New York City.",
@@ -250,7 +250,7 @@
             {
             "id": 24,
             "name": "Sushi Rolls",
-            "picture": "https://example.com/sushi.jpg",
+            "picture": "https://i.ibb.co/st4mxkX/1.jpg",
             "ingredients": ["sushi rice", "nori seaweed", "raw fish", "avocado", "cucumber"],
             "cooking_method": "Cook sushi rice, place nori seaweed on a sushi mat, spread rice evenly on the seaweed, add raw fish, avocado, and cucumber, roll up tightly using the mat, slice into pieces",
             "rating": 4.8
