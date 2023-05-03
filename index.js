@@ -6,6 +6,7 @@ const cors = require('cors');
 app.use(cors());
 const chef = require('./data/chef.json');
 const topFood = require('./data/popularFood.json');
+const blog = require('./data/blog.json');
 
 app.get('/', (req, res)=>{
     res.send('american-chef-server is running')
@@ -22,6 +23,10 @@ app.get('/chef/:id',(req,res)=>{
 
 app.get('/topFood',(req, res)=>{
     res.send(topFood);
+})
+
+app.get('/blog', (req, res)=>{
+    res.send(blog)
 })
 
 
